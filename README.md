@@ -15,6 +15,7 @@ The Luo et al. survey looks at **LLM agents** not just as clever chatbots, but a
 - and how agents **evolve** (self-learning, co-evolution, external feedback).
 
 The paper also reviews **benchmarks, metrics, tools, and real-world issues** such as security, privacy, and social impact. Overall, it’s a 2025 snapshot of where LLM agents are today and what’s still missing before we can trust them in real workflows.
+<img width="681" height="316" alt="Screenshot 2025-12-10 at 11 27 41 PM" src="https://github.com/user-attachments/assets/e335db2f-7efb-4584-970b-8f003e15d987" />
 
 ---
 
