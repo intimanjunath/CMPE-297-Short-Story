@@ -70,7 +70,7 @@ These bullets are my distilled version of the taxonomy figure from the survey.
 - **Paper (arXiv PDF)**  
   👉 https://arxiv.org/pdf/2503.21460.pdf
 
-- **YouTube presentation (15+ min)**  
+- **YouTube presentation**  
   👉 https://youtu.be/inJkg4Rr39w
 
 - **SlideShare deck**  
