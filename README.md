@@ -72,7 +72,7 @@ These bullets are my distilled version of the taxonomy figure from the survey.
   👉 _TODO: add YouTube link here_
 
 - **SlideShare deck**  
-  👉 _TODO: add SlideShare link here_
+  👉 [_TODO: add SlideShare link here_](https://www.slideshare.net/slideshow/inside-llm-agents-how-ai-workers-plan-remember-and-act-in-the-real-world-pdf/284592635)
 
 ---
 
