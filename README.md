@@ -85,8 +85,3 @@ All technical claims, diagrams, and taxonomy descriptions are based on:
 > **Luo, J. et al. (2025). _Large Language Model Agent: A Survey on Methodology, Applications and Challenges._ arXiv:2503.21460.**
 
 I’m grateful to the authors for providing a comprehensive and up-to-date survey of LLM agent research.
-
----
-
-
-> Inti, M. (2025). _Inside LLM Agents: How AI Workers Plan, Remember, and Act in the Real World._ Medium article and accompanying slide deck.
